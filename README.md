@@ -1,12 +1,3 @@
-<p align="center">
-  <a href="https://www.damiangalarza.com?utm_source=github&utm_medium=profile&utm_campaign=profile-readme">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://assets.damiangalarza.com/images/damian-galarza-logo-white-rgb.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://assets.damiangalarza.com/images/damian-galarza-logo-full-color-rgb.svg">
-      <img alt="Damian Galarza" src="https://assets.damiangalarza.com/images/damian-galarza-logo-full-color-rgb.svg" width="400">
-    </picture>
-  </a>
-</p>
 
 I help builders apply AI. 15+ years of production software experience, former CTO, FDA-cleared medical device software, still shipping daily. Most AI demos never survive contact with production. My work focuses on what closes that gap: architecture, evals, observability, and the engineering judgment that makes agentic systems reliable.
 
